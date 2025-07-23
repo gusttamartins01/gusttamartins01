@@ -5,16 +5,6 @@
 Me chamo Luiz Gustavo Martins, tenho 21 anos e sou natural do Ceará. Concluí o ensino médio no ano de 2020, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFAMETRO. Sou apaixonado por tecnologia e foco em desenvolver minhas habilidades com projetos práticos e repassando conhecimentos em aulas na faculdade.
 
 
- 
-    
-    <a href="https://github.com/gusttamartins01?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gusttamartins01?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
