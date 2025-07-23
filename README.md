@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Gustavo Martins, tenho 21 anos e sou natural do Ceará. Concluí o ensino médio no ano de 2020, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifametro. Sou apaixonado por tecnologia e inovações, arpofundo meus conhecimentos com projetos práticos e ministrando tira dúvidas em sala de aula.
-Atuo como desenvolvedor web em uma Software House que junta tecnologia e sustentabilidade chamada RoboDev(https://www.instagram.com/robodev_softwarehouse/) do Instituto Robótica Sustentável (https://www.instagram.com/robotica_sustentavel/).
+Olá, me chamo Gustavo Martins, tenho 21 anos e sou natural de Fortaleza Ceará. Concluí o meu ensino médio no ano de 2020, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifametro e atuo como estagiário no time de TI da mesma. Sou apaixonado por tecnologia e inovações, aprofundo meus conhecimentos com projetos práticos e estudando para sempre aumentar minha bag de Hard e Soft Skills.
+Atuo como desenvolvedor web em uma Software House que une tecnologia, inovação, qualidade e sustentabilidade chamada RoboDev(https://www.instagram.com/robodev_softwarehouse/) do Instituto Robótica Sustentável (https://www.instagram.com/robotica_sustentavel/).
 
 ---
 
