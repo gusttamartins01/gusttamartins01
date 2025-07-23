@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Gustta Martins
+# 💻 Gustta Martins
 
 **`Desenvolvedor Web`**
 
