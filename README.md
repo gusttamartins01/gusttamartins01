@@ -31,7 +31,6 @@ Olá, eu me chamo Gustavo Martins, tenho 21 anos e sou natural de Fortaleza Cear
 ### 💻 Backend:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
 </div>
 
 ------
@@ -40,6 +39,7 @@ Olá, eu me chamo Gustavo Martins, tenho 21 anos e sou natural de Fortaleza Cear
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
 </div>
 
 ------
