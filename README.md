@@ -1,12 +1,12 @@
 # Gustta Martins
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Sejam+Bem+Vindos+Ao+Meu+Perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Olá,+Sejam+Todos+Bem+Vindos+Ao+Meu+Perfil!)](https://git.io/typing-svg)
 
 -----
 
 **`Desenvolvedor Web`**
 
-Olá, me chamo Gustavo Martins, tenho 21 anos e sou natural de Fortaleza Ceará. Concluí o meu ensino médio no ano de 2020, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifametro e atuo como estagiário na equipe de TI da mesma. Sou apaixonado por tecnologia e inovações, aprofundo meus conhecimentos com projetos práticos e estudando com foco em me desenvolver e sempre aumentar minha bag de Hard e Soft Skills.
+Olá, eu me chamo Gustavo Martins, tenho 21 anos e sou natural de Fortaleza Ceará. Concluí o meu ensino médio no ano de 2020, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifametro e atuo como estagiário na equipe de TI da mesma. Sou apaixonado por tecnologia e inovações, aprofundo meus conhecimentos com projetos práticos e estudando com foco em me desenvolver e sempre aumentar minha bag de Hard e Soft Skills.
 
 ---
 ![Snake animation](https://github.com/edsonfsousa/edsonfsousa/blob/output/github-contribution-grid-snake.svg)
