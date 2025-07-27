@@ -1,4 +1,4 @@
-# Gustta Martins
+# Gusttavo Martins
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Olá,+Sejam+Todos+Bem+Vindos+Ao+Meu+Perfil!)](https://git.io/typing-svg)
 
