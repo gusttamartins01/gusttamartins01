@@ -1,10 +1,11 @@
-# Gustta Martins
+# Olá, me chamo Gustavo Martins
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Olá,+Sejam+Bem+Vindos+Ao+Meu+Perfil!)](https://git.io/typing-svg)
+**`Desenvolvedor Fullstack`**
 
 -----
 
-**`Desenvolvedor Fullstack`**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Olá,+Sejam+Bem+Vindos+Ao+Meu+Perfil!)](https://git.io/typing-svg)
+
 
 ---
 ![Snake animation](https://github.com/edsonfsousa/edsonfsousa/blob/output/github-contribution-grid-snake.svg)
