@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="40px" max-width="400px" width="300px" align="right">
 
  <div>
-    <p>🤖 Olá, eu me chamo Gustavo Martins</p>
+    <p>🤖 Me chamo Gustavo Martins</p>
     <p>🎓 Graduando em Analise e Desenvolvimento de Sistemas</p>
     <p>💻 Desenvolvedor FullStack</p>
   </div>
