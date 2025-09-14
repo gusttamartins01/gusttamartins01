@@ -5,13 +5,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="40px" max-width="400px" width="300px" align="right">
 
-**`🤖 Olá, eu me chamo Gustavo Martins`**
-
-**`🎓 Graduando em Analise e Desenvolvimento de Sistemas`**
-
-**`💻 Desenvolvedor FullStack`**
-
-
+ <div>
+    <p>🤖 Olá, eu me chamo Gustavo Martins</p>
+    <p>🎓 Graduando em Analise e Desenvolvimento de Sistemas</p>
+    <p>💻 Desenvolvedor FullStack</p>
+  </div>
+  
 -----
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Olá,+Sejam+Bem+Vindos+Ao+Meu+Perfil!)](https://git.io/typing-svg)
