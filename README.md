@@ -1,6 +1,15 @@
-# Olá, me chamo Gustavo Martins
 
-**`Desenvolvedor Fullstack`**
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"  />
+</div>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="40px" max-width="400px" width="300px" align="right">
+
+  <div>
+    <p>🤖 Olá, me chamo Gustavo Martins</p>
+    <p>🎓 Estudante de Analise e Desenvolvimento de Sistemas</p>
+    <p>💻 Desenvolvedor FullStack</p>
+  </div>
 
 -----
 
@@ -10,7 +19,8 @@
 ---
 ![Snake animation](https://github.com/edsonfsousa/edsonfsousa/blob/output/github-contribution-grid-snake.svg)
 
------
+---------
+
 
 ### 🤖 Linguagens e Tecnologias
 
