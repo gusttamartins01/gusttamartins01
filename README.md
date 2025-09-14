@@ -5,11 +5,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="40px" max-width="400px" width="300px" align="right">
 
-  <div>
-    <p>🤖 Olá, me chamo Gustavo Martins</p>
-    <p>🎓 Estudante de Analise e Desenvolvimento de Sistemas</p>
-    <p>💻 Desenvolvedor FullStack</p>
-  </div>
+**`🤖 Olá, eu me chamo Gustavo Martins`**
+
+**`🎓 Graduando em Analise e Desenvolvimento de Sistemas`**
+
+**`💻 Desenvolvedor FullStack`**
+
 
 -----
 
