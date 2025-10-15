@@ -1,7 +1,8 @@
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"  />
 </div>
+
+![capa](https://github.com/user-attachments/assets/58ce4e14-6750-40b5-add4-9f11c450fa3c)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="40px" max-width="400px" width="300px" align="right">
 
