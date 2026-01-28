@@ -56,9 +56,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/n8n.svg" height="40" alt="n8n logo" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/npm.svg" height="40" alt="npm logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linux.svg" height="40"alt="Linux logo"/>
 </div>
 
 ------
