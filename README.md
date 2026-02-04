@@ -9,7 +9,7 @@
  <div>
     <p>🤖 Me chamo Gustavo Martins</p>
     <p>🎓 Graduando em Analise e Desenvolvimento de Sistemas</p>
-    <p>💻 Desenvolvedor FullStack</p>
+    <p>💻 Desenvolvedor Full Stack</p>
   </div>
   
 -----
