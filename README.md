@@ -37,13 +37,13 @@
 
 ### 💻 Backend:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java&theme=dark)](https://skillicons.dev)
 
 ------
 
 ### 🛠️ Ferramentas:
 
-[![Tools](https://skillicons.dev/icons?i=github,git,vscode,figma,linux)](https://skillicons.dev) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=github,git,docker,vscode,figma,linux)](https://skillicons.dev) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ------
 
