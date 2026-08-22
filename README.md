@@ -43,7 +43,7 @@
 
 ### 🛠️ Ferramentas:
 
-[![Tools](https://skillicons.dev/icons?i=github,git,docker,vscode,idea,figma,linux,notion)](https://skillicons.dev) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=github,git,docker,prisma,vscode,idea,figma,linux,notion)](https://skillicons.dev) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ------
 
