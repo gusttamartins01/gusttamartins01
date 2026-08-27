@@ -37,7 +37,7 @@
 
 ### 💻 Backend:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,py&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,java,py&theme=dark)](https://skillicons.dev)
 
 ------
 
