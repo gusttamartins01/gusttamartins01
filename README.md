@@ -6,11 +6,13 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="40px" max-width="400px" width="300px" align="right">
 
+# Gustavo Martins -  Software Developer
+
+
  <div>
-    <p>🤖 Me chamo Gustavo Martins</p>
-    <p>🎓 Graduando em Analise e Desenvolvimento de Sistemas</p>
-    <p>💻 Desenvolvedor Full Stack</p>
-  </div>
+    <p>🎓 Undergraduate student in Analysis and Systems Development (ADS) at Unifametro</p>
+    <p>📍 Fortaleza, Ceará, Brazil</p>
+</div>
   
 -----
 
